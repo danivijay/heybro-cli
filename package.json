@@ -1,0 +1,25 @@
+{
+  "name": "heybro-cli",
+  "version": "1.0.0",
+  "description": "cli for devs",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "enquirer": "^2.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://danivijay:Ksb4DRsKwpLt7jV@github.com/danivijay/heybro-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danivijay/heybro-cli/issues"
+  },
+  "homepage": "https://github.com/danivijay/heybro-cli#readme"
+}
