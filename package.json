@@ -4,8 +4,11 @@
   "description": "cli for devs",
   "main": "index.js",
   "dependencies": {
+    "colors": "^1.4.0",
     "commander": "^5.1.0",
-    "enquirer": "^2.3.5"
+    "enquirer": "^2.3.5",
+    "node-wit": "^6.0.0",
+    "recursive-readdir": "^2.2.2"
   },
   "devDependencies": {},
   "scripts": {
